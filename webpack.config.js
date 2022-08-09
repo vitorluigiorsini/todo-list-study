@@ -24,10 +24,10 @@ const cssLoader = {
 module.exports = {
   entry: "./src/index.js", // arquivo de entrada
   output: {
-    path: path.resolve(__dirname, "dist"), // pasta de saída
+    path: path.resolve(__dirname, "./"), // pasta de saída
     filename: "bundle.js", // nome do arquivo de saída
   },
-  devServer: { static: "./dist" }, // pasta de saída
+  devServer: { static: "./" }, // pasta de saída
   plugins: [
     new HtmlWebpackPlugin({
       template: "./src/index.html",
