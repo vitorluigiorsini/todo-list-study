@@ -1,12 +1,18 @@
-# 📚 TODO-List de Estudos
+![Página TODO-List](https://i.imgur.com/HskLSky.png)
+
+# 📚 TODO-List para Estudos
+
+## Stacks utilizadas
 
 `HTML`, `JavaScript`, `TailwindCSS`, `PostCSS`
 
-### O DOM e o JavaScript
+## Habilidades trabalhadas
+
+#### O DOM e o JavaScript
 - Manipulação da `DOM`
 - Eventos
 
-### Compiladores e Transpiladores
+#### Compiladores e Transpiladores
 - Module Bundling
 - Plugins Webpack
 - Loaders
